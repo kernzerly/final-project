@@ -1,0 +1,18 @@
+HTML
+<div class="main-box center">
+  <div class="box center circle-background">
+    <div class="center-text">1</div>
+  </div>
+  <div class="box left circle-background">
+    <div class="center-text">2</div>
+    </div>
+    <div class="box right circle-background">
+      <div class="center-text">3</div>
+      </div>
+      <div class="box center clear-left circle-background">
+      <div class="center-text">4</div>
+      </div>
+     </div>
+      
+      
+    

@@ -1,0 +1,32 @@
+.main-box {
+    height: 150px;
+    width: 150px;
+}
+.box {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.circle-background {
+    background-color: green;
+    border-radius: 100%;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}›
+.clear-left {
+    clear: left;
+}
+.clear-right {
+    clear: right;
+}
+.center {
+    margin: 0 auto;
+}
+.center-text {
+    padding-top: 13px;
+      color: #fafafa;
+}

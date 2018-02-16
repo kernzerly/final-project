@@ -1,0 +1,8 @@
+HTML
+
+<div class="block">Block Element</div>
+<p>Block element</>
+<span class="inline">Inline Element</span>
+<span class="inline">Inline element</>
+<div class="inline-block">Inline Block</div/>
+<a clas="inline">Starts as inline</a>

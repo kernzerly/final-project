@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+}
+.main-nav {
+  height: 70px;
+  width: 100%;
+  background-color: #f60d19
+}
+.logo  {
+  height: 100%;
+}
+.nav-list {
+  float: right;
+  list-style: none;
+}
+.nav-item {
+  float: left;
+  margin-right: 15px;
+}
+.nav-link { 
+color: blue;
+text-decoration: none;
+}
+/* End of nav styles */
+/* Start hero styles */
+.hero-section {
+  height: 500px;
+  background-image: url('../images/strategic-action-planning-process.png');
+  background-repeat:no-repeat;
+  background-size: contain;
+   background-position: center;
+
+}
+.hero-text {
+  margin-top: 0px;
+  padding-top: 200px;
+  text-align: center;
+  color: #ffffff;
+ 
+}
+  .text-background {
+     background-color: rgba(0, 0, 0, .5);
+     padding: 10px;
+ 
+  }
+/* End hero styles */
+/*start column styles */
+.container {
+  height: 350px;
+  padding: 2.25% 0;
+
+}
+.container:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.contact-column {
+  width: 50%;
+  text-align center;
+  float: left;
+}
+.form-container {
+  width 50%;
+}
+.map-container {
+  width: 75%;
+  margin: 0 auto;
+}
+.column {
+  height: 300px;
+  width: 30%;
+  border: 1px solid #000000;
+  float: left;
+  text-align: center;
+  margin-left: 2.25%;
+  
+  
+}
+.column-image {
+  width: 80%;
+  height: 115px;
+}
+/* End column styles */
+/* Start footer styles */
+.main-footer {
+  height: 150px;
+  border-top: 1px solid #000000;
+  float: left;
+  width: 100%;
+}
+/*end footer styles */
+.main-box {
+    height: 150px;
+    width: 150px;
+}
+.box {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.circle-background {
+    background-color: green;
+    border-radius: 100%;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}›
+.clear-left {
+    clear: left;
+}
+.clear-right {
+    clear: right;
+}
+.center {
+    margin: 0 auto;
+}
+.center-text {
+    padding-top: 13px;
+      color: #fafafa;
+}
+.footer-section {
+  width: 33%;
+  border-right: 1px solid #000000;
+  float: left;
+  height: 100%;
+}
+.main-box {
+  height: 150px;
+  width: 150px;
+}
+.box {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+.main-box {
+  height: 150px;
+  width: 150px;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+.circle-background {
+  background-color: green;
+  border-radius: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.center-text {
+  padding-top: 13px;
+  color: #fafafa;
+}
+.fa-github {
+  color: blue;
+}
+/* End footer styles */

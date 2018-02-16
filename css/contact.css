@@ -1,0 +1,22 @@
+
+
+iframe{
+    font-family: inherit;
+    font-size: small;
+    color:#a7a7a7;
+    text-align: center;
+    display:block;
+    
+}
+.contact-column {
+    width: 50%
+    text-align: center;
+    float: left;
+}
+.form-container {
+    width: 50%;
+}
+.map {
+    width: 50%;
+    margin: 0 auto;
+}
